@@ -1,0 +1,3 @@
+D:\IT\files\с++\sekundomer\sekundomer\x64\Debug\sekundomer.vcxproj.AssemblyReference.cache
+D:\IT\files\с++\sekundomer\sekundomer\x64\Debug\sekundomer.MyForm.resources
+D:\IT\files\с++\sekundomer\sekundomer\x64\Debug\sekundomer.vcxproj.GenerateResource.cache
